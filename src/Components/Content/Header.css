@@ -1,0 +1,42 @@
+.header-bar {
+  box-sizing: border-box;
+  background: #ffffff;
+  border-radius: 5px;
+  padding-bottom: 1%;
+}
+
+.dijital-mentor p {
+  position: relative;
+  font-family: "Roboto";
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 0.02em;
+  margin-top: 45%;
+  float: left;
+}
+
+.dijital-mentor img {
+  float: left;
+  margin-top: 43%;
+}
+
+.welcome-text {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.welcome-desc {
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}

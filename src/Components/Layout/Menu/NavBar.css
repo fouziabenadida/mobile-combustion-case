@@ -1,0 +1,28 @@
+.menu-top-title {
+  width: 40px;
+  height: 16px;
+  margin-left: 6%;
+  margin-top: 10%;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #868e96;
+}
+
+.menu-row {
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+.menu-row-active {
+  width: 167px;
+  height: 34px;
+  padding-top: 4%;
+  padding-bottom: 12%;
+  color: white;
+  background: #0d1840;
+  border-radius: 4px;
+}

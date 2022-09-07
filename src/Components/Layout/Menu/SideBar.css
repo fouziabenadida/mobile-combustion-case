@@ -1,0 +1,35 @@
+.sideBar {
+}
+.profile {
+  background: #0d1840;
+  height: 254px;
+  color: #ffffff;
+  font-family: "Montserrat";
+}
+
+.navBar {
+  font-family: "Roboto";
+  background: #ffffff;
+}
+
+.profilePhoto {
+  position: relative;
+  margin-top: 25%;
+  margin-left: 30%;
+}
+.profileName {
+  margin-left: 25%;
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+.profileTitle {
+  margin-left: 15%;
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+.tim-logo {
+  margin-top: 20%;
+  margin-left: 26%;
+  padding-bottom: 20%;
+}
